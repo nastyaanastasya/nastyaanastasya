@@ -19,4 +19,4 @@
 ## 📌 Some stats
 ![.](https://komarev.com/ghpvc/?username=nastyaanastasya&color=F8BBD0&style=flat&label=VISITOR+COUNT)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyaanastasya&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyaanastasya&layout=compact&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
