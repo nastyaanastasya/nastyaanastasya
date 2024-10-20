@@ -1,7 +1,5 @@
-## Hello! I'm Chukhina Anastasia🤍
-
 ## 🌷 About Me
-- Learning Android development
+- Android developer
 - **[Telegram](https://t.me/nastyaanastasya)**
 
 ## 👩‍🎓 Education
